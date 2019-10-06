@@ -1,0 +1,41 @@
+.login {
+    width: 354px;
+    margin: 0 auto;
+}
+
+#login_form ul li {
+ margin-bottom: 10px;  
+}
+
+
+#login_form ul li input{ 
+    border: solid 1px #333333;
+    width: 342px;
+    height: 35px;
+    font-size: 10px;
+    line-height: 32px;
+    padding-left: 10px;
+}
+.login_btn {
+    color:#ccc;
+    font-size: 10px;
+    font-weight: bolder;
+}
+
+.login_btn ul{
+    height: 43px;
+    line-height: 43px;
+}    
+
+.login_btn ul .left{
+    float: left;
+}
+.login_btn ul .left a{
+    padding-right: 5px;
+   
+}
+
+.login_btn ul .right{
+    float: right;
+    margin-right: 15px;
+}

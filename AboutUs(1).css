@@ -1,0 +1,19 @@
+#wrapp {
+    width: 850px;
+    margin: 0 auto;
+}
+#About { 
+    margin: 0 auto;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    border-top: 1px solid #000000;
+}
+.aboutpicture { 
+    max-width: 100%;
+    width: 850px;
+}
+#wrapp p {
+    text-align: center;
+    font-size: 1em;
+}

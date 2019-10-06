@@ -1,0 +1,133 @@
+
+
+#contents2 { width: 850px; margin: 0 auto;
+font-size: 11px; line-height: 180%;color: #000;}
+
+
+
+#joinForm{
+    width: 80%;
+    margin: 0 auto;
+}
+caption{
+    display: none;
+}
+
+#titleArea h2{
+        font-size: 18px;
+        font-weight: 500;
+        text-align: center;
+    }
+    .base-table{
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    table{
+        width:100%;
+        border-collapse: collapse;
+        font-family: 'Raleway', sans-serif;
+        border-top: 1px solid #222;
+    }
+    tr{
+        border-bottom: 1px solid #222;
+        height: 70px;
+    }
+
+    th{
+      
+        padding: 11px 0px 10px 18px;
+        padding-left: 0px;
+        text-align: left;
+        font-size: 14px;
+        line-height: 30px;
+       
+    }
+    td {
+        margin-top: 20px;
+    }
+
+    .base-table select,.base-table input{
+        box-sizing: border-box;
+        border: 1px solid #ddd;
+        color: #888;
+        width: 100%;
+        height: 30px;
+        line-height: 28px;
+        
+    }
+    .base-table #mobile1{
+        width: 60px;
+        margin:  0 4px 0 0;
+    }
+    .base-table #mobile2,.base-table #mobile3 {
+        width : 50px;
+        margin: 0 4px;
+    }
+
+   .base-table #email1,.base-table #email2,.base-table #email3{
+       width: 100px;
+       margin: 4px;
+       margin-left: 0px;
+   }
+
+
+   input[id="agree"]{
+       width: auto;
+       position: relative;
+       top:10px;
+   }
+
+   .agreeArea_wrap{
+    width: 100%;
+    height: 155px;
+    margin-top: 10px;
+   }
+
+   .agreeArea_wrap .left {
+    float: left;
+    width: 49%; 
+
+   }
+   .agreeArea_wrap .right{
+    float: right;
+    width: 49%; 
+   }
+
+   .agreeArea_wrap .agreeArea_suzip{
+       color: #747474;    
+       font-size: 11px;
+       line-height: 20px;
+   }
+   .agree_suzip{
+       overflow: hidden;
+       height: 150px;
+       padding: 20px;
+       border: 1px solid #ddd;
+       background: #fff;
+   }
+   .agree_suzip .check{
+       display: block;
+       padding: 10px;
+       color: #202020;
+       font-size: 12px;
+       border: 1px solid #dddddd;
+       border-top: 0px;
+   }
+   #submit{
+      
+       margin-top: 10px;
+       width: 100%;
+       display: block;
+       line-height: 40px;
+      
+       border: 1px solid #000;
+       color: #000;
+       text-align: center;
+
+   }
+   /* #sumbit a {
+    
+   } */
+
+  
